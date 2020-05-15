@@ -1,5 +1,3 @@
-Worked with Spencer Fleming for -10%
-
 To run replace common files in ogl tutorial solution
 
 No extra credit was attempted, but other tasks were completed
